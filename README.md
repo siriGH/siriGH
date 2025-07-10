@@ -32,6 +32,11 @@ I'm a hands-on CloudOps and Data Engineering professional with strong expertise 
 - https://github.com/siriGH/snowflake-end-to-end-project.git
 - https://github.com/siriGH/snowflake_Staging_project.git
 
+🏅 Certifications
+- 🏆 **Microsoft Certified: Azure Data Fundamentals (DP-900)** 
+- 🟢 Kode Kloud: GitHub, Docker, Kubernetes, Terraform, AWS, Jenkins
+
+
 🤝 Let’s Connect!
 I'm open to discussing new opportunities or collaborating on real-world data projects.
 Please Feel free to connect with me at
