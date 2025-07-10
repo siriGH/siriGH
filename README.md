@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Sirisha Karusala!
 🎯 Data Engineer | ETL | Cloud & DevOps Enthusiast | AWS | Snowflake | IICS | Airflow | SQL | Python | Databricks
 
-🌟 About Me
+###🌟 About Me
 I'm a hands-on CloudOps and Data Engineering professional with strong expertise in building scalable data pipelines, cloud migration, and ETL workflows. I’ve worked extensively with AWS, Snowflake, Informatica IICS/PowerCenter, Apache Airflow, and Python, and I’m passionate about solving real-world data problems with clean, automated, and reliable workflows.
 
 ### 🛠️ Key Skills
@@ -24,7 +24,7 @@ I'm a hands-on CloudOps and Data Engineering professional with strong expertise 
 
 - **Documentation & Collaboration:**  Confluence, Jira, MS Office, GitHub, VS Code, Postman
 
-📂 Projects
+### 📂 Projects
 
 - https://github.com/siriGH/aws-airflow-snowflake-pipeline.git
 - https://github.com/siriGH/Nifi-AWS-S3-scd2-Snowflake-pipeline.git
@@ -32,12 +32,12 @@ I'm a hands-on CloudOps and Data Engineering professional with strong expertise 
 - https://github.com/siriGH/snowflake-end-to-end-project.git
 - https://github.com/siriGH/snowflake_Staging_project.git
 
-🏅 Certifications
+### 🏅 Certifications
 - 🏆 **Microsoft Certified: Azure Data Fundamentals (DP-900)** 
 - 🟢 Kode Kloud: GitHub, Docker, Kubernetes, Terraform, AWS, Jenkins
 
 
-🤝 Let’s Connect!
+### 🤝 Let’s Connect!
 I'm open to discussing new opportunities or collaborating on real-world data projects.
 Please Feel free to connect with me at
 📧 Email: ksirisha030@gmail.com
